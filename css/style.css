@@ -2,3 +2,8 @@ section{
     background-image: url("../images/display.png");
 
 }
+.row h1{
+    font-style: italic;
+    color: rgb(163, 46, 10)!important;
+    font-weight: 800;
+}
